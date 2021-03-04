@@ -9,5 +9,8 @@ so just to make it bit more readble in future, we renamed those classes as well.
 Please find the screenshots of such examples
 https://github.com/Amritgurm/source_code_optimization/blob/main/assets/images/repeatative_class.jpg
 
+https://github.com/Amritgurm/source_code_optimization/blob/main/assets/images/repeat_2_class.jpg
+
 
 We have also removed some unused ID that were in the HTML code but were not defined in the Style.CSS
+https://github.com/Amritgurm/source_code_optimization/blob/main/assets/images/unused_ID.jpg
